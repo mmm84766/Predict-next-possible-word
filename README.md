@@ -11,4 +11,4 @@
 ### Input: JARVIS can object to Stark’s
 ### Output: ['commands']
 
-## I implemented Neural Network for this problem where used Google-Colab
+## I designed Neural Network for this problem where used Google-Colab
